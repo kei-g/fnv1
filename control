@@ -1,0 +1,6 @@
+Architecture: amd64
+Depends: libc6 (>=2.31.0)
+Description: Fowler-Noll-Vo Hash Function
+Maintainer: kei-g <km.8k6ce+debpkg@gmail.com>
+Package: fnv1
+Version: 1.0.0

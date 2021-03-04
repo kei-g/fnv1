@@ -1,0 +1,8 @@
+**/*.dat
+**/*.deb
+**/*.o
+**/*.xz
+**/.vscode/
+**/debian-binary
+**/fnv1
+**/md5sums
