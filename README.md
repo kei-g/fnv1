@@ -2,8 +2,8 @@
 
 Fowler-Noll-Vo Hash Function
 
-[![Build Status](https://travis-ci.com/kei-g/fnv1.svg?branch=main)](https://travis-ci.com/kei-g/fnv1)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Travis CI](https://img.shields.io/travis/com/kei-g/fnv1?logo=travis&style=plastic)](https://travis-ci.com/kei-g/fnv1)
+[![License](https://img.shields.io/github/license/kei-g/fnv1?style=plastic)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## TODO
 
